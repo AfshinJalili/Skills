@@ -1,0 +1,22 @@
+{
+  "name": "afshin",
+  "owner": {
+    "name": "Afshin Jalili",
+    "url": "https://github.com/AfshinJalili"
+  },
+  "description": "Afshin Jalili's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "afshin-skills",
+      "source": "./",
+      "description": "Long runs, tutoring, prepared walkthroughs, and the whiteboard defense before customer-facing work ships.",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "whiteboard-defense",
+        "walkthrough",
+        "goal"
+      ]
+    }
+  ]
+}

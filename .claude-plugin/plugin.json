@@ -1,0 +1,23 @@
+{
+  "name": "afshin-skills",
+  "version": "0.1.0",
+  "description": "Agent skills for long runs, tutoring, prepared walkthroughs, and the whiteboard defense before customer-facing work ships.",
+  "author": {
+    "name": "Afshin Jalili",
+    "url": "https://github.com/AfshinJalili"
+  },
+  "repository": "https://github.com/AfshinJalili/Skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "whiteboard-defense",
+    "walkthrough",
+    "goal"
+  ],
+  "skills": [
+    "./skills/engineering/whiteboard-defense",
+    "./skills/productivity/goal",
+    "./skills/productivity/spoonfeed-walkthrough",
+    "./skills/productivity/walk-me-through"
+  ]
+}

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Walk me through"
+  short_description: "Tutor through a multi-part artifact, one item per turn"
+policy:
+  allow_implicit_invocation: false

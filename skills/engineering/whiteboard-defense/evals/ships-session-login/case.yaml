@@ -1,0 +1,10 @@
+schema_version: "1.1"
+name: ships-session-login
+expected_outcome: |
+  The work is classed as customer-facing. The reply shows a whiteboard
+  drawing of session login: password check, random id in a cookie, a session
+  row, the next visit matching a live row, the signed token set aside, and
+  the stolen cookie as the break. The drawing is shown with the session's
+  HTML visual tool, or opened as a plain HTML file in the browser. The
+  caption says why the row beat the token. It does not tour function names.
+  Open gaps would keep it unshipped. "The model wrote it" is not an answer.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spoonfeed walkthrough"
+  short_description: "Prepare fixtures; story-by-story exact requests"
+  default_prompt: "Use $spoonfeed-walkthrough to onboard me on this flow."

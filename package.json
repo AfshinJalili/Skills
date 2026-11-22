@@ -1,0 +1,12 @@
+{
+  "name": "afshin-skills",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Afshin Jalili's agent skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AfshinJalili/Skills"
+  },
+  "license": "MIT",
+  "author": "Afshin Jalili"
+}
